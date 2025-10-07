@@ -10,7 +10,7 @@ Aqui estão reunidos os experimentos, relatórios e implementações realizados 
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**Classification with MLP (Adult Income Dataset)**](index.md/) | Implementação de uma rede neural para previsão de renda (>50K), com comparação entre MLP manual (NumPy) e Scikit-learn. | NumPy, scikit-learn, Matplotlib |
+| [**Classification with MLP (Adult Income Dataset)**](project1.md/) | Implementação de uma rede neural para previsão de renda (>50K), com comparação entre MLP manual (NumPy) e Scikit-learn. | NumPy, scikit-learn, Matplotlib |
 
 ---
 
